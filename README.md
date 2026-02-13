@@ -2,7 +2,7 @@
 
 Personal Finance Tracker is a web application that helps you manage your finances effectively. With this application, you can track your income and expenses, set budgets, and gain better control over your financial health. 
 
-<img width="960" alt="image" src="https://github.com/neeraj542/Personal-Finance-Tracker/assets/114648043/83946993-1e1b-41a8-ad3e-d0598bb9deb7">
+<img<img width="960" height="409" alt="272791359-83946993-1e1b-41a8-ad3e-d0598bb9deb7" src="https://github.com/user-attachments/assets/cb1fb890-dd01-406f-8af1-c3cb9cd259b3" />
 
 
 ## Features
@@ -39,4 +39,5 @@ This project is licensed under the [MIT License](LICENSE).
 For any inquiries or questions, please contact on lharshitha9964@gmail.com
 
 Enjoy managing your finances with Personal Finance Tracker!
+
 
